@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+*{
+    text-decoration: none;
+}
+.topbar{
+    background-color: #316dc3;
+    color: white;
+}
+.top-button{
+    color: #458e56;
+    background-color: #f5f5f5;
+    border: 1px solid black ;
+    font-size: small;
+    padding: 3px;
+}
+.navbar img{
+    width: 170px;
+}
+.navbar li{
+    padding: 1px 4px;
+    color: white;
+    border-radius: 20px;
+    font-size: small;
+    margin: auto 2px;
+}
+.home{
+    padding: 1px 4px;
+    color: white;
+    border-radius: 20px;
+    font-size: small;
+    margin: auto 2px;
+    background-color: steelblue;
+}
+.marque{
+    padding: 3px;
+    margin: 10px 30px;
+    background-color: steelblue;
+}
+.intro{
+    color: steelblue;
+}
+.duction{
+    color: forestgreen;
+}
+.para{
+    margin-top: 20px;
+}
+.space{
+    padding-top: 50px;
+}
+.mid{
+    height: 300px;
+    background-color: royalblue;
+    color: white;
+}
+.col img{
+    padding-top: 100px;
+    width: 30px;
+}
+.separator {
+    width: 70px;
+    height: 3px;
+    background-color: green;
+    display: block;
+}
+.projects marquee {
+    height: 200px;
+}
+.imagegallery img {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    width: 220px;
+}
+.footer{
+    color: whitesmoke;
+}

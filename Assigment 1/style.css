@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+td 
+{
+    width: 5vw;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.noBoader {
+    border: none;
+}
+
+.Firstheading {
+    background-color: yellow;
+    padding: 10px;
+}
+
+._color_1 {
+    background-color: #ff9966;
+}
+
+._color_2 {
+    background-color: #dda0dd;
+}
+
+._color_3 {
+    background-color: #90c7ff;
+}
+
+._color_4 {
+    background-color: #fceffe;
+}
+
+._color_5 {
+    background-color: #fff28e;
+}
+
+._color_6 {
+    background-color: #c79810;
+}
+
+._color_7 {
+    background-color: #cdeb8b;
+}
+
+._color_8 {
+    background-color: #ebdca9;
+}
+
+._color_9 {
+    background-color: #e6e6fa;
+}
+
+.text_color_green {
+    color: green;
+}
+
+.text_color_blue {
+    color: blue;
+}
+
+.text_color_red {
+    color: red;
+}

@@ -1,0 +1,21 @@
+*{
+    margin: 1px 1px;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    color: #6b5acd;
+}
+form{
+    background-color: #6b5acd;
+    margin-left: 250px;
+    margin-right: 200px;
+    border-radius: 5px;
+    
+}
+table {
+    width: 600px;
+    padding: 1px;
+    margin: 0px opx;
+}
